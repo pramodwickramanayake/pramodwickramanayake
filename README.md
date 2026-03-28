@@ -17,8 +17,9 @@
 <td width="50%" align="left">
   
 - 🌱 I’m currently learning *c##*
+- 📱 I’m focusing on Mobile Application Development (Flutter)
 - 🧑‍🎓 I’m an Undergraduate at *NSBM*
-- 💬 Ask me about *Java*
+- 💬 Ask me about Flutter & mobile app development
 - 📫 How to reach me *pramodmaduwantha11@gmail.com*
 - ⚡ Fun fact *Call me as pramotha*
 
